@@ -8,6 +8,6 @@ Python argparser demo
 ## Using
 
  - Just run:
-'''
+```sh
 python argparse_demo.py
-'''
+```
