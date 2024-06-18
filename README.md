@@ -9,5 +9,5 @@ Python argparser demo
 
  - Just run:
 ```sh
-python argparse_demo.py
+python argparse_demo.py somefile -c 2
 ```
